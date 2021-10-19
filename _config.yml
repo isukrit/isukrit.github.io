@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sukrit Gupta"
-  avatar           : "images/IMG_20180409_144456385.jpg"
+  avatar           : "/images/IMG_20180409_144456385.jpg"
   bio              : "Research, Coding \\& Stuff"
   location         : 
   employer         :
